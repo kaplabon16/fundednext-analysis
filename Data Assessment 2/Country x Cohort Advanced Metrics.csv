@@ -1,0 +1,314 @@
+Country,Cohort,New Customers,First Revenue,First ARPU,Repeat Customers,Repeat Rate,Repeat Revenue,Avg LTV,Median Days To Repeat,Top First Plan,Offer Share
+Afghanistan,Non-Offer First Joiners,247,"8,223.78",33.29,27,10.93%,"2,852.94",44.85,12,Monthly,48.65%
+Afghanistan,Offer First Joiners,234,"7,054.03",30.15,33,14.10%,"2,272.38",39.86,24,Monthly,48.65%
+Albania,Non-Offer First Joiners,86,"3,322.37",38.63,9,10.47%,520.84,44.69,32,Monthly,36.30%
+Albania,Offer First Joiners,49,"1,953.56",39.87,10,20.41%,421.66,48.47,30,Monthly,36.30%
+Algeria,Non-Offer First Joiners,46,"1,818.15",39.52,1,2.17%,19.12,39.94,63,Monthly,65.93%
+Algeria,Offer First Joiners,89,"2,843.67",31.95,11,12.36%,608.53,38.79,40,Monthly,65.93%
+Angola,Non-Offer First Joiners,86,"3,697.84",43.00,4,4.65%,217.73,45.53,30,Monthly,32.81%
+Angola,Offer First Joiners,42,"1,485.20",35.36,4,9.52%,272.40,41.85,36,Monthly,32.81%
+Antigua and Barbuda,Non-Offer First Joiners,69,"1,959.20",28.39,7,10.14%,180.26,31.01,11,Monthly,54.90%
+Antigua and Barbuda,Offer First Joiners,84,"2,778.69",33.08,7,8.33%,248.15,36.03,21,Monthly,54.90%
+Argentina,Non-Offer First Joiners,79,"2,597.62",32.88,11,13.92%,"2,089.16",59.33,39,Monthly,45.52%
+Argentina,Offer First Joiners,66,"2,151.62",32.60,15,22.73%,"1,981.16",62.62,12,Monthly,45.52%
+Australia,Non-Offer First Joiners,9,263.61,29.29,0,0.00%,0.00,29.29,,Monthly,47.06%
+Australia,Offer First Joiners,8,160.80,20.10,0,0.00%,0.00,20.10,,Monthly,47.06%
+Austria,Non-Offer First Joiners,94,"3,381.16",35.97,11,11.70%,487.98,41.16,29,Monthly,34.27%
+Austria,Offer First Joiners,49,"1,819.01",37.12,6,12.24%,100.35,39.17,24,Monthly,34.27%
+Bahamas,Non-Offer First Joiners,19,811.47,42.71,1,5.26%,61.20,45.93,32,Monthly,38.71%
+Bahamas,Offer First Joiners,12,379.57,31.63,2,16.67%,165.26,45.40,16,Monthly,38.71%
+Bahrain,Non-Offer First Joiners,252,"11,437.61",45.39,23,9.13%,"1,287.61",50.50,23,Monthly,49.40%
+Bahrain,Offer First Joiners,246,"9,858.32",40.07,32,13.01%,"1,437.42",45.92,30,Monthly,49.40%
+Bangladesh,Non-Offer First Joiners,61,"2,927.23",47.99,6,9.84%,398.06,54.51,44,Monthly,57.34%
+Bangladesh,Offer First Joiners,82,"3,109.73",37.92,15,18.29%,"1,026.72",50.44,34,Monthly,57.34%
+Barbados,Non-Offer First Joiners,7,183.59,26.23,1,14.29%,38.55,31.73,21,3-Month,53.33%
+Barbados,Offer First Joiners,8,216.80,27.10,1,12.50%,79.86,37.08,68,Monthly,53.33%
+Barbuda,Non-Offer First Joiners,57,"2,322.69",40.75,3,5.26%,497.89,49.48,10,Monthly,61.74%
+Barbuda,Offer First Joiners,92,"3,141.05",34.14,15,16.30%,"1,360.58",48.93,42,Monthly,61.74%
+Belarus,Non-Offer First Joiners,70,"3,142.43",44.89,4,5.71%,"1,130.73",61.05,16,Monthly,50.70%
+Belarus,Offer First Joiners,72,"2,453.42",34.08,8,11.11%,921.94,46.88,26,Monthly,50.70%
+Belarus (Republic),Non-Offer First Joiners,109,"4,111.86",37.72,13,11.93%,822.38,45.27,39,Monthly,30.13%
+Belarus (Republic),Offer First Joiners,47,"1,246.40",26.52,4,8.51%,177.37,30.29,41,Monthly,30.13%
+Belgium,Non-Offer First Joiners,8,151.59,18.95,0,0.00%,0.00,18.95,,Monthly,27.27%
+Belgium,Offer First Joiners,3,101.13,33.71,0,0.00%,0.00,33.71,,Monthly,27.27%
+Belize,Non-Offer First Joiners,4,222.86,55.72,0,0.00%,0.00,55.72,,Monthly,55.56%
+Belize,Offer First Joiners,5,168.07,33.61,1,20.00%,12.39,36.09,19,Monthly,55.56%
+Bhutan,Non-Offer First Joiners,51,"1,450.11",28.43,4,7.84%,159.37,31.56,39,Monthly,65.31%
+Bhutan,Offer First Joiners,96,"3,171.44",33.04,16,16.67%,775.70,41.12,37,Monthly,65.31%
+Bolivia,Non-Offer First Joiners,55,"1,647.68",29.96,5,9.09%,59.87,31.05,66,Monthly,56.35%
+Bolivia,Offer First Joiners,71,"3,021.38",42.55,14,19.72%,555.46,50.38,44,Monthly,56.35%
+Bosnia and Herzegovina,Non-Offer First Joiners,279,"10,377.63",37.20,31,11.11%,"1,940.66",44.15,27,Monthly,37.02%
+Bosnia and Herzegovina,Offer First Joiners,164,"6,851.11",41.78,20,12.20%,"1,041.72",48.13,31,Monthly,37.02%
+Botswana,Non-Offer First Joiners,10,373.86,37.39,0,0.00%,0.00,37.39,,Monthly,37.50%
+Botswana,Offer First Joiners,6,414.81,69.14,0,0.00%,0.00,69.14,,12-Month,37.50%
+Brazil,Non-Offer First Joiners,9,189.17,21.02,0,0.00%,0.00,21.02,,Monthly,25.00%
+Brazil,Offer First Joiners,3,52.14,17.38,1,33.33%,5.92,19.35,80,Monthly,25.00%
+Bulgaria,Non-Offer First Joiners,50,"2,085.28",41.71,3,6.00%,101.58,43.74,37,Monthly,61.24%
+Bulgaria,Offer First Joiners,79,"2,617.40",33.13,16,20.25%,424.77,38.51,34,Monthly,61.24%
+Burundi,Non-Offer First Joiners,49,"1,476.64",30.14,3,6.12%,47.97,31.11,26,Monthly,62.02%
+Burundi,Offer First Joiners,80,"2,738.85",34.24,6,7.50%,206.02,36.81,44,Monthly,62.02%
+Cabo Verde,Non-Offer First Joiners,5,111.21,22.24,1,20.00%,30.57,28.36,27,3-Month,73.68%
+Cabo Verde,Offer First Joiners,14,408.07,29.15,0,0.00%,0.00,29.15,,Monthly,73.68%
+Cambodia,Non-Offer First Joiners,88,"3,682.31",41.84,6,6.82%,279.37,45.02,47,Monthly,42.86%
+Cambodia,Offer First Joiners,66,"2,127.74",32.24,10,15.15%,"1,020.09",47.69,36,Monthly,42.86%
+Canada,Non-Offer First Joiners,11,253.38,23.03,1,9.09%,12.74,24.19,6,Monthly,50.00%
+Canada,Offer First Joiners,11,259.35,23.58,2,18.18%,22.05,25.58,53,Monthly,50.00%
+Chile,Non-Offer First Joiners,62,"2,073.23",33.44,3,4.84%,298.60,38.26,51,Monthly,60.76%
+Chile,Offer First Joiners,96,"3,600.03",37.50,10,10.42%,491.06,42.62,37,Monthly,60.76%
+China,Non-Offer First Joiners,4,271.21,67.80,0,0.00%,0.00,67.80,,6-Month,63.64%
+China,Offer First Joiners,7,489.74,69.96,0,0.00%,0.00,69.96,,12-Month,63.64%
+Colombia,Non-Offer First Joiners,9,103.90,11.54,0,0.00%,0.00,11.54,,Monthly,43.75%
+Colombia,Offer First Joiners,7,232.22,33.17,0,0.00%,0.00,33.17,,Monthly,43.75%
+Costa Rica,Non-Offer First Joiners,7,318.23,45.46,1,14.29%,54.37,53.23,10,Monthly,36.36%
+Costa Rica,Offer First Joiners,4,275.34,68.84,1,25.00%,19.94,73.82,49,12-Month,36.36%
+Croatia,Non-Offer First Joiners,15,720.55,48.04,1,6.67%,196.92,61.16,7,Monthly,57.14%
+Croatia,Offer First Joiners,20,634.14,31.71,3,15.00%,403.79,51.90,39,Monthly,57.14%
+Cuba,Non-Offer First Joiners,8,363.73,45.47,1,12.50%,10.52,46.78,74,Monthly,55.56%
+Cuba,Offer First Joiners,10,315.09,31.51,2,20.00%,17.00,33.21,12,Monthly,55.56%
+Cyprus,Non-Offer First Joiners,73,"2,230.03",30.55,6,8.22%,283.74,34.44,32,Monthly,50.34%
+Cyprus,Offer First Joiners,74,"2,373.89",32.08,13,17.57%,510.86,38.98,20,Monthly,50.34%
+Czech Republic,Non-Offer First Joiners,71,"2,238.15",31.52,4,5.63%,251.11,35.06,18,Monthly,46.62%
+Czech Republic,Offer First Joiners,62,"2,041.16",32.92,9,14.52%,397.28,39.33,17,Monthly,46.62%
+Democratic Republic of the Congo,Non-Offer First Joiners,72,"2,732.44",37.95,5,6.94%,119.96,39.62,36,Monthly,40.50%
+Democratic Republic of the Congo,Offer First Joiners,49,"1,827.71",37.30,6,12.24%,289.03,43.20,50,Monthly,40.50%
+Denmark,Non-Offer First Joiners,69,"2,824.39",40.93,5,7.25%,190.49,43.69,20,Monthly,56.88%
+Denmark,Offer First Joiners,91,"3,410.63",37.48,7,7.69%,162.34,39.26,41,Monthly,56.88%
+Dominican Republic,Non-Offer First Joiners,73,"2,510.48",34.39,6,8.22%,551.16,41.94,38,Monthly,49.66%
+Dominican Republic,Offer First Joiners,72,"2,364.99",32.85,10,13.89%,396.20,38.35,30,Monthly,49.66%
+Ecuador,Non-Offer First Joiners,105,"3,385.09",32.24,11,10.48%,930.32,41.10,15,Monthly,29.53%
+Ecuador,Offer First Joiners,44,"1,748.77",39.74,5,11.36%,304.50,46.67,30,Monthly,29.53%
+Egypt,Non-Offer First Joiners,11,479.50,43.59,0,0.00%,0.00,43.59,,3-Month,45.00%
+Egypt,Offer First Joiners,9,180.66,20.07,1,11.11%,23.98,22.74,11,Monthly,45.00%
+El Salvador,Non-Offer First Joiners,86,"3,033.56",35.27,11,12.79%,579.37,42.01,49,Monthly,34.85%
+El Salvador,Offer First Joiners,46,"1,291.87",28.08,8,17.39%,362.45,35.96,50,Monthly,34.85%
+Estonia,Non-Offer First Joiners,9,405.62,45.07,1,11.11%,63.17,52.09,13,Monthly,47.06%
+Estonia,Offer First Joiners,8,153.05,19.13,1,12.50%,16.68,21.22,9,Monthly,47.06%
+Ethiopia,Non-Offer First Joiners,45,"1,562.28",34.72,6,13.33%,189.21,38.92,22,Monthly,66.67%
+Ethiopia,Offer First Joiners,90,"3,246.35",36.07,17,18.89%,687.39,43.71,47,Monthly,66.67%
+Fiji,Non-Offer First Joiners,85,"3,058.60",35.98,7,8.24%,482.21,41.66,38,Monthly,36.57%
+Fiji,Offer First Joiners,49,"1,569.50",32.03,6,12.24%,305.82,38.27,45,Monthly,36.57%
+Finland,Non-Offer First Joiners,90,"3,297.73",36.64,11,12.22%,449.14,41.63,31,Monthly,47.06%
+Finland,Offer First Joiners,80,"2,861.48",35.77,6,7.50%,286.59,39.35,19,Monthly,47.06%
+France,Non-Offer First Joiners,86,"2,713.53",31.55,3,3.49%,149.95,33.30,25,Monthly,44.52%
+France,Offer First Joiners,69,"2,821.11",40.89,7,10.14%,309.20,45.37,26,Monthly,44.52%
+Germany,Non-Offer First Joiners,92,"3,310.97",35.99,12,13.04%,413.90,40.49,22,Monthly,35.66%
+Germany,Offer First Joiners,51,"1,731.87",33.96,9,17.65%,541.45,44.57,53,Monthly,35.66%
+Ghana,Non-Offer First Joiners,2,117.12,58.56,0,0.00%,0.00,58.56,,3-Month,86.67%
+Ghana,Offer First Joiners,13,671.42,51.65,1,7.69%,44.58,55.08,48,6-Month,86.67%
+Greece,Non-Offer First Joiners,91,"3,284.30",36.09,12,13.19%,971.44,46.77,34,Monthly,36.36%
+Greece,Offer First Joiners,52,"1,782.11",34.27,7,13.46%,309.11,40.22,22,Monthly,36.36%
+Greenland,Non-Offer First Joiners,7,180.55,25.79,0,0.00%,0.00,25.79,,Monthly,56.25%
+Greenland,Offer First Joiners,9,182.77,20.31,2,22.22%,17.96,22.30,58,Monthly,56.25%
+Guadeloupe,Non-Offer First Joiners,68,"2,109.23",31.02,6,8.82%,395.25,36.83,46,Monthly,47.69%
+Guadeloupe,Offer First Joiners,62,"2,130.00",34.35,12,19.35%,992.55,50.36,18,Monthly,47.69%
+Guatemala,Non-Offer First Joiners,49,"1,313.19",26.80,2,4.08%,97.43,28.79,36,Monthly,66.21%
+Guatemala,Offer First Joiners,96,"4,332.41",45.13,15,15.62%,901.49,54.52,34,Monthly,66.21%
+Honduras,Non-Offer First Joiners,45,"1,811.44",40.25,3,6.67%,56.28,41.50,32,Monthly,69.39%
+Honduras,Offer First Joiners,102,"3,516.64",34.48,13,12.75%,517.07,39.55,25,Monthly,69.39%
+Hong Kong,Non-Offer First Joiners,7,209.42,29.92,0,0.00%,0.00,29.92,,Monthly,58.82%
+Hong Kong,Offer First Joiners,10,301.28,30.13,2,20.00%,23.96,32.52,56,Monthly,58.82%
+Hungary,Non-Offer First Joiners,71,"2,538.78",35.76,9,12.68%,492.02,42.69,21,Monthly,48.55%
+Hungary,Offer First Joiners,67,"2,284.29",34.09,6,8.96%,253.32,37.87,40,Monthly,48.55%
+Iceland,Non-Offer First Joiners,9,371.16,41.24,1,11.11%,17.98,43.24,64,Monthly,40.00%
+Iceland,Offer First Joiners,6,203.43,33.91,0,0.00%,0.00,33.91,,Monthly,40.00%
+India,Non-Offer First Joiners,9,230.81,25.65,0,0.00%,0.00,25.65,,Monthly,50.00%
+India,Offer First Joiners,9,339.76,37.75,4,44.44%,264.92,67.19,36,Monthly,50.00%
+Indonesia,Non-Offer First Joiners,96,"3,796.23",39.54,17,17.71%,803.66,47.92,23,Monthly,32.39%
+Indonesia,Offer First Joiners,46,"1,536.01",33.39,2,4.35%,53.58,34.56,50,Monthly,32.39%
+Iran,Non-Offer First Joiners,68,"3,091.70",45.47,5,7.35%,576.31,53.94,57,Monthly,49.63%
+Iran,Offer First Joiners,67,"1,985.71",29.64,3,4.48%,220.51,32.93,79,Monthly,49.63%
+Iraq,Non-Offer First Joiners,253,"7,873.66",31.12,17,6.72%,710.57,33.93,23,Monthly,43.90%
+Iraq,Offer First Joiners,198,"5,749.01",29.04,28,14.14%,"1,348.01",35.84,24,Monthly,43.90%
+Iraq Kurdistan,Non-Offer First Joiners,145,"5,072.88",34.99,9,6.21%,775.54,40.33,45,Monthly,67.19%
+Iraq Kurdistan,Offer First Joiners,297,"11,146.57",37.53,29,9.76%,"1,194.71",41.55,23,Monthly,67.19%
+Ireland,Non-Offer First Joiners,4,138.02,34.51,0,0.00%,0.00,34.51,,3-Month,78.95%
+Ireland,Offer First Joiners,15,626.28,41.75,1,6.67%,135.53,50.79,63,Monthly,78.95%
+Israel,Non-Offer First Joiners,3,54.40,18.13,1,33.33%,13.48,22.63,77,Monthly,78.57%
+Israel,Offer First Joiners,11,335.33,30.48,1,9.09%,9.84,31.38,46,Monthly,78.57%
+Italy,Non-Offer First Joiners,73,"2,534.71",34.72,7,9.59%,271.74,38.44,26,Monthly,47.10%
+Italy,Offer First Joiners,65,"1,856.80",28.57,8,12.31%,433.20,35.23,22,Monthly,47.10%
+Jamaica,Non-Offer First Joiners,7,81.42,11.63,0,0.00%,0.00,11.63,,Monthly,53.33%
+Jamaica,Offer First Joiners,8,258.26,32.28,1,12.50%,14.54,34.10,19,Monthly,53.33%
+Japan,Non-Offer First Joiners,75,"2,420.79",32.28,3,4.00%,170.58,34.55,21,Monthly,51.61%
+Japan,Offer First Joiners,80,"3,164.86",39.56,10,12.50%,"1,041.79",52.58,42,Monthly,51.61%
+Jordan,Non-Offer First Joiners,4,123.31,30.83,0,0.00%,0.00,30.83,,Monthly,69.23%
+Jordan,Offer First Joiners,9,443.28,49.25,0,0.00%,0.00,49.25,,Monthly,69.23%
+Kazakhstan,Non-Offer First Joiners,92,"3,670.12",39.89,9,9.78%,591.73,46.32,44,Monthly,41.40%
+Kazakhstan,Offer First Joiners,65,"1,931.75",29.72,11,16.92%,"1,308.54",49.85,22,Monthly,41.40%
+Kenya,Non-Offer First Joiners,115,"5,037.00",43.80,1,0.87%,28.86,44.05,80,Monthly,76.24%
+Kenya,Offer First Joiners,369,"13,592.85",36.84,52,14.09%,"2,931.76",44.78,35,Monthly,76.24%
+Kiribati,Non-Offer First Joiners,56,"1,629.13",29.09,3,5.36%,124.37,31.31,30,Monthly,61.11%
+Kiribati,Offer First Joiners,88,"3,051.32",34.67,10,11.36%,394.02,39.15,41,Monthly,61.11%
+Kyrgyzstan,Non-Offer First Joiners,10,247.56,24.76,0,0.00%,0.00,24.76,,Monthly,23.08%
+Kyrgyzstan,Offer First Joiners,3,81.78,27.26,0,0.00%,0.00,27.26,,3-Month,23.08%
+Laos,Non-Offer First Joiners,71,"2,567.33",36.16,4,5.63%,347.75,41.06,10,Monthly,52.67%
+Laos,Offer First Joiners,79,"3,332.33",42.18,6,7.59%,212.64,44.87,39,Monthly,52.67%
+Latvia,Non-Offer First Joiners,316,"10,716.20",33.91,36,11.39%,"4,262.83",47.40,44,Monthly,35.51%
+Latvia,Offer First Joiners,174,"6,399.78",36.78,23,13.22%,999.09,42.52,40,Monthly,35.51%
+Lebanon,Non-Offer First Joiners,72,"2,924.11",40.61,7,9.72%,259.04,44.21,15,Monthly,51.68%
+Lebanon,Offer First Joiners,77,"2,769.96",35.97,19,24.68%,"1,297.56",52.82,39,Monthly,51.68%
+Lithuania,Non-Offer First Joiners,5,192.76,38.55,0,0.00%,0.00,38.55,,Monthly,50.00%
+Lithuania,Offer First Joiners,5,265.33,53.07,0,0.00%,0.00,53.07,,6-Month,50.00%
+Luxembourg,Non-Offer First Joiners,93,"3,839.99",41.29,13,13.98%,612.11,47.87,25,Monthly,34.51%
+Luxembourg,Offer First Joiners,49,"1,614.16",32.94,3,6.12%,614.14,45.48,36,Monthly,34.51%
+Madagascar,Non-Offer First Joiners,59,"1,741.44",29.52,7,11.86%,236.41,33.52,19,Monthly,57.55%
+Madagascar,Offer First Joiners,80,"2,733.27",34.17,13,16.25%,541.23,40.93,17,Monthly,57.55%
+Malaysia,Non-Offer First Joiners,7,291.33,41.62,2,28.57%,56.63,49.71,22,Monthly,53.33%
+Malaysia,Offer First Joiners,8,345.25,43.16,0,0.00%,0.00,43.16,,Monthly,53.33%
+Malta,Non-Offer First Joiners,55,"1,813.09",32.97,3,5.45%,172.28,36.10,37,Monthly,60.43%
+Malta,Offer First Joiners,84,"2,813.38",33.49,9,10.71%,484.09,39.26,41,Monthly,60.43%
+Martinique,Non-Offer First Joiners,73,"2,517.17",34.48,6,8.22%,285.03,38.39,43,Monthly,48.59%
+Martinique,Offer First Joiners,69,"2,693.31",39.03,7,10.14%,"111,698.13","1,657.85",27,Monthly,48.59%
+Mauritius,Non-Offer First Joiners,94,"4,015.91",42.72,9,9.57%,571.91,48.81,33,Monthly,36.05%
+Mauritius,Offer First Joiners,53,"1,661.83",31.36,9,16.98%,465.86,40.15,54,Monthly,36.05%
+Mexico,Non-Offer First Joiners,7,322.08,46.01,0,0.00%,0.00,46.01,,Monthly,56.25%
+Mexico,Offer First Joiners,9,334.70,37.19,1,11.11%,43.93,42.07,32,Monthly,56.25%
+Mongolia,Non-Offer First Joiners,6,115.83,19.31,1,16.67%,9.22,20.84,86,Monthly,62.50%
+Mongolia,Offer First Joiners,10,437.82,43.78,1,10.00%,16.80,45.46,28,Monthly,62.50%
+Montserrat,Non-Offer First Joiners,52,"1,925.23",37.02,3,5.77%,424.98,45.20,15,Monthly,62.32%
+Montserrat,Offer First Joiners,86,"3,035.62",35.30,9,10.47%,364.02,39.53,27,Monthly,62.32%
+Morocco,Non-Offer First Joiners,8,187.16,23.39,1,12.50%,112.87,37.50,41,Monthly,65.22%
+Morocco,Offer First Joiners,15,610.31,40.69,2,13.33%,38.91,43.28,27,Monthly,65.22%
+Mozambique,Non-Offer First Joiners,68,"2,451.08",36.05,5,7.35%,115.48,37.74,65,Monthly,56.13%
+Mozambique,Offer First Joiners,87,"3,638.20",41.82,13,14.94%,764.09,50.60,34,Monthly,56.13%
+Myanmar,Non-Offer First Joiners,245,"7,966.20",32.52,24,9.80%,"1,261.98",37.67,30,Monthly,42.49%
+Myanmar,Offer First Joiners,181,"6,691.07",36.97,15,8.29%,806.82,41.42,33,Monthly,42.49%
+Namibia,Non-Offer First Joiners,51,"1,665.14",32.65,10,19.61%,559.09,43.61,38,Monthly,62.22%
+Namibia,Offer First Joiners,84,"2,911.10",34.66,12,14.29%,319.15,38.46,36,Monthly,62.22%
+Nauru,Non-Offer First Joiners,7,248.35,35.48,0,0.00%,0.00,35.48,,3-Month,56.25%
+Nauru,Offer First Joiners,9,268.03,29.78,2,22.22%,39.89,34.21,32,Monthly,56.25%
+Nepal,Non-Offer First Joiners,76,"2,346.66",30.88,11,14.47%,522.05,37.75,14,Monthly,41.09%
+Nepal,Offer First Joiners,53,"1,637.90",30.90,5,9.43%,94.51,32.69,16,Monthly,41.09%
+Netherlands,Non-Offer First Joiners,9,262.57,29.17,1,11.11%,25.46,32.00,24,Monthly,52.63%
+Netherlands,Offer First Joiners,10,123.02,12.30,0,0.00%,0.00,12.30,,Monthly,52.63%
+New Zealand,Non-Offer First Joiners,4,73.84,18.46,0,0.00%,0.00,18.46,,Monthly,66.67%
+New Zealand,Offer First Joiners,8,239.05,29.88,1,12.50%,6.18,30.65,57,Monthly,66.67%
+Nicaragua,Non-Offer First Joiners,79,"3,341.33",42.30,7,8.86%,519.51,48.87,32,Monthly,45.52%
+Nicaragua,Offer First Joiners,66,"2,928.66",44.37,14,21.21%,"1,136.90",61.60,26,Monthly,45.52%
+Nigeria,Non-Offer First Joiners,239,"7,630.14",31.93,15,6.28%,460.24,33.85,38,Monthly,51.02%
+Nigeria,Offer First Joiners,249,"8,522.38",34.23,28,11.24%,765.67,37.30,44,Monthly,51.02%
+Norfolk Island,Non-Offer First Joiners,78,"3,035.89",38.92,5,6.41%,167.05,41.06,54,Monthly,48.68%
+Norfolk Island,Offer First Joiners,74,"2,516.69",34.01,9,12.16%,433.15,39.86,46,Monthly,48.68%
+North Korea,Non-Offer First Joiners,233,"8,845.83",37.96,11,4.72%,700.11,40.97,21,Monthly,49.89%
+North Korea,Offer First Joiners,232,"7,522.55",32.42,18,7.76%,"1,273.73",37.92,30,Monthly,49.89%
+North Macedonia,Non-Offer First Joiners,72,"2,172.10",30.17,5,6.94%,232.94,33.40,22,Monthly,52.32%
+North Macedonia,Offer First Joiners,79,"2,661.37",33.69,7,8.86%,331.07,37.88,16,Monthly,52.32%
+Norway,Non-Offer First Joiners,237,"7,409.67",31.26,28,11.81%,"1,654.82",38.25,32,Monthly,45.01%
+Norway,Offer First Joiners,194,"6,412.38",33.05,21,10.82%,"1,211.44",39.30,32,Monthly,45.01%
+Oman,Non-Offer First Joiners,62,"2,156.49",34.78,4,6.45%,359.10,40.57,20,Monthly,53.73%
+Oman,Offer First Joiners,72,"2,133.56",29.63,12,16.67%,481.53,36.32,60,Monthly,53.73%
+Pakistan,Non-Offer First Joiners,44,"1,464.85",33.29,7,15.91%,267.70,39.38,28,Monthly,67.65%
+Pakistan,Offer First Joiners,92,"3,072.93",33.40,13,14.13%,435.50,38.14,23,Monthly,67.65%
+Palestine,Non-Offer First Joiners,68,"2,168.35",31.89,7,10.29%,426.52,38.16,34,Monthly,44.26%
+Palestine,Offer First Joiners,54,"2,130.16",39.45,12,22.22%,632.43,51.16,26,Monthly,44.26%
+Panama,Non-Offer First Joiners,73,"2,484.83",34.04,5,6.85%,"1,108.78",49.23,13,Monthly,50.34%
+Panama,Offer First Joiners,74,"2,730.99",36.91,13,17.57%,"3,679.00",86.62,49,Monthly,50.34%
+Papua New Guinea,Non-Offer First Joiners,64,"2,081.77",32.53,4,6.25%,219.43,35.96,30,Monthly,52.24%
+Papua New Guinea,Offer First Joiners,70,"2,003.20",28.62,7,10.00%,268.86,32.46,44,Monthly,52.24%
+Paraguay,Non-Offer First Joiners,83,"2,886.72",34.78,12,14.46%,743.54,43.74,38,Monthly,43.92%
+Paraguay,Offer First Joiners,65,"2,071.00",31.86,9,13.85%,634.96,41.63,18,Monthly,43.92%
+Peru,Non-Offer First Joiners,85,"3,183.20",37.45,5,5.88%,179.70,39.56,8,Monthly,38.41%
+Peru,Offer First Joiners,53,"1,878.03",35.43,6,11.32%,231.72,39.81,51,Monthly,38.41%
+Philippines,Offer First Joiners,10,490.37,49.04,3,30.00%,44.69,53.51,13,6-Month,100.00%
+Poland,Non-Offer First Joiners,6,217.65,36.27,2,33.33%,51.11,44.79,30,3-Month,62.50%
+Poland,Offer First Joiners,10,296.07,29.61,0,0.00%,0.00,29.61,,Monthly,62.50%
+Portugal,Non-Offer First Joiners,58,"2,039.51",35.16,5,8.62%,78.38,36.52,45,Monthly,58.57%
+Portugal,Offer First Joiners,82,"2,587.91",31.56,18,21.95%,"1,067.36",44.58,36,Monthly,58.57%
+Puerto Rico,Non-Offer First Joiners,83,"3,237.93",39.01,11,13.25%,954.98,50.52,19,Monthly,44.67%
+Puerto Rico,Offer First Joiners,67,"2,023.22",30.20,6,8.96%,549.88,38.40,44,Monthly,44.67%
+Qatar,Non-Offer First Joiners,98,"3,685.09",37.60,10,10.20%,"1,747.54",55.44,28,Monthly,38.75%
+Qatar,Offer First Joiners,62,"2,009.50",32.41,11,17.74%,"2,018.51",64.97,58,Monthly,38.75%
+Republic of the Congo,Non-Offer First Joiners,76,"3,258.45",42.87,5,6.58%,257.89,46.27,53,Monthly,50.97%
+Republic of the Congo,Offer First Joiners,79,"2,673.14",33.84,18,22.78%,"2,153.22",61.09,33,Monthly,50.97%
+Romania,Non-Offer First Joiners,88,"3,161.36",35.92,13,14.77%,794.07,44.95,24,Monthly,32.31%
+Romania,Offer First Joiners,42,"1,378.11",32.81,1,2.38%,9.65,33.04,34,Monthly,32.31%
+Russia,Non-Offer First Joiners,176,"6,892.56",39.16,23,13.07%,"1,652.72",48.55,15,Monthly,60.45%
+Russia,Offer First Joiners,269,"10,059.49",37.40,40,14.87%,"1,995.15",44.81,39,Monthly,60.45%
+Rwanda,Non-Offer First Joiners,64,"2,275.24",35.55,11,17.19%,464.12,42.80,48,Monthly,56.16%
+Rwanda,Offer First Joiners,82,"2,499.77",30.48,14,17.07%,522.24,36.85,50,Monthly,56.16%
+Saint Kitts and Nevis,Non-Offer First Joiners,11,498.82,45.35,0,0.00%,0.00,45.35,,Monthly,21.43%
+Saint Kitts and Nevis,Offer First Joiners,3,183.47,61.16,0,0.00%,0.00,61.16,,Monthly,21.43%
+Saint Lucia,Non-Offer First Joiners,46,"1,648.71",35.84,6,13.04%,466.94,45.99,14,Monthly,68.71%
+Saint Lucia,Offer First Joiners,101,"2,752.68",27.25,15,14.85%,856.52,35.73,47,Monthly,68.71%
+Saint Vincent and the Grenadines,Non-Offer First Joiners,63,"1,746.18",27.72,3,4.76%,81.17,29.01,29,Monthly,60.62%
+Saint Vincent and the Grenadines,Offer First Joiners,97,"3,651.19",37.64,14,14.43%,434.19,42.12,34,Monthly,60.62%
+Samoa,Non-Offer First Joiners,53,"1,956.70",36.92,3,5.66%,63.15,38.11,39,Monthly,58.59%
+Samoa,Offer First Joiners,75,"3,049.38",40.66,7,9.33%,709.60,50.12,22,Monthly,58.59%
+Saudi Arabia,Non-Offer First Joiners,56,"2,103.87",37.57,10,17.86%,858.06,52.89,20,Monthly,63.40%
+Saudi Arabia,Offer First Joiners,97,"3,564.82",36.75,14,14.43%,818.80,45.19,30,Monthly,63.40%
+Serbia,Non-Offer First Joiners,8,134.62,16.83,2,25.00%,40.31,21.87,16,Monthly,46.67%
+Serbia,Offer First Joiners,7,225.71,32.24,0,0.00%,0.00,32.24,,3-Month,46.67%
+Seychelles,Non-Offer First Joiners,69,"2,400.97",34.80,7,10.14%,379.73,40.30,23,Monthly,54.90%
+Seychelles,Offer First Joiners,84,"2,466.95",29.37,11,13.10%,594.66,36.45,43,Monthly,54.90%
+Singapore,Non-Offer First Joiners,95,"3,456.88",36.39,8,8.42%,"1,327.47",50.36,35,Monthly,32.62%
+Singapore,Offer First Joiners,46,"1,546.22",33.61,5,10.87%,346.31,41.14,49,Monthly,32.62%
+Slovakia,Non-Offer First Joiners,93,"3,654.19",39.29,14,15.05%,598.11,45.72,26,Monthly,40.76%
+Slovakia,Offer First Joiners,64,"2,312.24",36.13,10,15.62%,694.57,46.98,18,Monthly,40.76%
+Slovenia,Non-Offer First Joiners,45,"1,798.06",39.96,4,8.89%,124.05,42.71,67,Monthly,66.17%
+Slovenia,Offer First Joiners,88,"3,552.08",40.36,15,17.05%,"1,142.42",53.35,17,Monthly,66.17%
+Solomon Islands,Non-Offer First Joiners,58,"2,343.58",40.41,2,3.45%,51.40,41.29,54,Monthly,65.48%
+Solomon Islands,Offer First Joiners,110,"3,455.60",31.41,12,10.91%,650.80,37.33,35,Monthly,65.48%
+Somalia,Non-Offer First Joiners,7,374.40,53.49,0,0.00%,0.00,53.49,,6-Month,65.00%
+Somalia,Offer First Joiners,13,534.77,41.14,3,23.08%,105.57,49.26,29,Monthly,65.00%
+South Africa,Non-Offer First Joiners,62,"2,125.59",34.28,8,12.90%,440.04,41.38,34,Monthly,60.76%
+South Africa,Offer First Joiners,96,"2,788.90",29.05,12,12.50%,554.09,34.82,38,Monthly,60.76%
+South Korea,Non-Offer First Joiners,6,286.85,47.81,1,16.67%,37.55,54.07,41,3-Month,62.50%
+South Korea,Offer First Joiners,10,368.15,36.81,2,20.00%,62.59,43.07,44,3-Month,62.50%
+Spain,Non-Offer First Joiners,67,"2,488.82",37.15,4,5.97%,193.46,40.03,33,Monthly,51.09%
+Spain,Offer First Joiners,70,"2,246.31",32.09,10,14.29%,380.20,37.52,22,Monthly,51.09%
+Sri Lanka,Non-Offer First Joiners,36,"1,475.34",40.98,0,0.00%,0.00,40.98,,6-Month,71.88%
+Sri Lanka,Offer First Joiners,92,"2,990.44",32.50,11,11.96%,376.84,36.60,30,Monthly,71.88%
+Sudan,Non-Offer First Joiners,11,392.87,35.72,0,0.00%,0.00,35.72,,Monthly,42.11%
+Sudan,Offer First Joiners,8,147.27,18.41,1,12.50%,78.80,28.26,54,Monthly,42.11%
+Sweden,Non-Offer First Joiners,312,"10,669.07",34.20,20,6.41%,"1,466.41",38.90,20,Monthly,34.73%
+Sweden,Offer First Joiners,166,"6,131.71",36.94,12,7.23%,742.00,41.41,30,Monthly,34.73%
+Switzerland,Non-Offer First Joiners,46,"1,798.44",39.10,2,4.35%,15.28,39.43,42,Monthly,66.67%
+Switzerland,Offer First Joiners,92,"3,316.81",36.05,18,19.57%,689.56,43.55,30,Monthly,66.67%
+Syria,Non-Offer First Joiners,14,525.50,37.54,2,14.29%,119.50,46.07,50,Monthly,12.50%
+Syria,Offer First Joiners,2,33.29,16.64,0,0.00%,0.00,16.64,,Monthly,12.50%
+Taiwan,Non-Offer First Joiners,12,490.89,40.91,0,0.00%,0.00,40.91,,Monthly,45.45%
+Taiwan,Offer First Joiners,10,319.98,32.00,2,20.00%,76.53,39.65,24,Monthly,45.45%
+Tajikistan,Non-Offer First Joiners,81,"2,812.59",34.72,8,9.88%,435.06,40.09,40,Monthly,48.73%
+Tajikistan,Offer First Joiners,77,"2,396.39",31.12,13,16.88%,550.39,38.27,18,Monthly,48.73%
+Tanzania,Non-Offer First Joiners,72,"2,477.18",34.41,5,6.94%,117.82,36.04,17,Monthly,50.00%
+Tanzania,Offer First Joiners,72,"2,522.59",35.04,7,9.72%,232.96,38.27,11,Monthly,50.00%
+Thailand,Non-Offer First Joiners,71,"2,443.43",34.41,7,9.86%,616.26,43.09,29,Monthly,52.67%
+Thailand,Offer First Joiners,79,"2,375.21",30.07,20,25.32%,"3,347.89",72.44,32,Monthly,52.67%
+Timor-Leste,Non-Offer First Joiners,91,"2,830.93",31.11,16,17.58%,"2,164.10",54.89,36,Monthly,39.74%
+Timor-Leste,Offer First Joiners,60,"1,863.23",31.05,5,8.33%,354.68,36.97,42,Monthly,39.74%
+Tonga,Non-Offer First Joiners,79,"2,527.67",32.00,8,10.13%,758.53,41.60,52,Monthly,47.68%
+Tonga,Offer First Joiners,72,"2,845.95",39.53,11,15.28%,"1,810.17",64.67,22,Monthly,47.68%
+Trinidad and Tobago,Non-Offer First Joiners,52,"1,845.30",35.49,3,5.77%,115.07,37.70,47,Monthly,57.72%
+Trinidad and Tobago,Offer First Joiners,71,"2,213.69",31.18,13,18.31%,591.80,39.51,31,Monthly,57.72%
+Tunisia,Non-Offer First Joiners,78,"3,363.36",43.12,1,1.28%,98.09,44.38,28,Monthly,52.15%
+Tunisia,Offer First Joiners,85,"3,215.54",37.83,6,7.06%,154.25,39.64,28,Monthly,52.15%
+Turkmenistan,Non-Offer First Joiners,77,"3,168.98",41.16,9,11.69%,514.13,47.83,45,Monthly,50.96%
+Turkmenistan,Offer First Joiners,80,"3,174.75",39.68,15,18.75%,"2,334.76",68.87,43,Monthly,50.96%
+Tuvalu,Non-Offer First Joiners,13,492.72,37.90,2,15.38%,325.16,62.91,28,Monthly,60.61%
+Tuvalu,Offer First Joiners,20,485.35,24.27,3,15.00%,289.00,38.72,56,Monthly,60.61%
+Uganda,Non-Offer First Joiners,12,391.84,32.65,0,0.00%,0.00,32.65,,Monthly,29.41%
+Uganda,Offer First Joiners,5,67.30,13.46,0,0.00%,0.00,13.46,,Monthly,29.41%
+Ukraine,Non-Offer First Joiners,13,483.56,37.20,2,15.38%,30.22,39.52,23,Monthly,62.86%
+Ukraine,Offer First Joiners,22,616.22,28.01,3,13.64%,62.07,30.83,57,Monthly,62.86%
+United Arab Emirates,Non-Offer First Joiners,68,"3,282.51",48.27,5,7.35%,533.20,56.11,9,Monthly,50.36%
+United Arab Emirates,Offer First Joiners,69,"2,687.27",38.95,12,17.39%,402.05,44.77,18,Monthly,50.36%
+United Kingdom,Non-Offer First Joiners,104,"3,604.89",34.66,15,14.42%,515.71,39.62,26,Monthly,25.18%
+United Kingdom,Offer First Joiners,35,"1,268.11",36.23,3,8.57%,117.13,39.58,56,Monthly,25.18%
+United States,Non-Offer First Joiners,222,"9,257.49",41.70,21,9.46%,"1,362.60",47.84,23,Monthly,50.88%
+United States,Offer First Joiners,230,"8,689.47",37.78,23,10.00%,"1,857.21",45.86,28,Monthly,50.88%
+Uruguay,Non-Offer First Joiners,73,"3,409.93",46.71,6,8.22%,264.96,50.34,36,Monthly,41.60%
+Uruguay,Offer First Joiners,52,"1,650.67",31.74,9,17.31%,360.06,38.67,45,Monthly,41.60%
+Uzbekistan,Non-Offer First Joiners,11,319.67,29.06,1,9.09%,5.63,29.57,23,Monthly,26.67%
+Uzbekistan,Offer First Joiners,4,128.63,32.16,0,0.00%,0.00,32.16,,Monthly,26.67%
+Vanuatu,Non-Offer First Joiners,72,"2,024.56",28.12,10,13.89%,693.25,37.75,42,Monthly,45.86%
+Vanuatu,Offer First Joiners,61,"2,025.54",33.21,0,0.00%,0.00,33.21,,Monthly,45.86%
+Venezuela,Non-Offer First Joiners,199,"6,702.32",33.68,25,12.56%,"1,675.28",42.10,43,Monthly,56.07%
+Venezuela,Offer First Joiners,254,"8,056.15",31.72,35,13.78%,"1,991.60",39.56,17,Monthly,56.07%
+Vietnam,Non-Offer First Joiners,100,"2,671.82",26.72,16,16.00%,668.21,33.40,40,Monthly,34.21%
+Vietnam,Offer First Joiners,52,"1,950.35",37.51,12,23.08%,696.57,50.90,40,Monthly,34.21%
+Yemen,Non-Offer First Joiners,74,"2,317.72",31.32,7,9.46%,235.14,34.50,16,Monthly,48.61%
+Yemen,Offer First Joiners,70,"2,634.09",37.63,12,17.14%,647.59,46.88,42,Monthly,48.61%
+Zambia,Non-Offer First Joiners,108,"4,229.60",39.16,19,17.59%,482.66,43.63,40,Monthly,26.03%
+Zambia,Offer First Joiners,38,"2,127.82",56.00,8,21.05%,400.48,66.53,41,Monthly,26.03%
+Zimbabwe,Non-Offer First Joiners,56,"1,689.06",30.16,7,12.50%,589.76,40.69,27,Monthly,57.58%
+Zimbabwe,Offer First Joiners,76,"2,632.86",34.64,5,6.58%,265.05,38.13,20,Monthly,57.58%
